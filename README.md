@@ -7,8 +7,8 @@ Semplice applicazione web.
 - npm install express
 
 ## Avvio
-node server.js
-http://localhost:8080
+- node server.js
+- http://localhost:8080
 
 ## Vedi
 - https://expressjs.com
