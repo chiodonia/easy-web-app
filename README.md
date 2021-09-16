@@ -8,8 +8,9 @@ Semplice applicazione web.
 
 ## Avvio
 - node server.js
-- http://localhost:8080
+- http://localhost:8080/
 
 ## Vedi
-- https://expressjs.com
-- https://jquery.com
+- https://expressjs.com/
+- https://jquery.com/
+- https://www.json.org/
