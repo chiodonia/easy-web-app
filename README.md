@@ -19,3 +19,7 @@ Semplice applicazione web.
 - https://docsify.js.org/
 - https://revealjs.com/
 - https://pages.github.com
+
+## Git
+- https://www.atlassian.com/git
+- https://learngitbranching.js.org
