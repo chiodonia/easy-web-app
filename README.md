@@ -17,3 +17,5 @@ Semplice applicazione web.
 - https://www.json.org/
 - https://www.favicon.cc
 - https://docsify.js.org/
+- https://revealjs.com/
+- https://pages.github.com
