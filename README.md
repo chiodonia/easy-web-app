@@ -14,3 +14,4 @@ Semplice applicazione web.
 - https://expressjs.com/
 - https://jquery.com/
 - https://www.json.org/
+- https://www.favicon.cc
