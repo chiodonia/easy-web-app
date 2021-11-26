@@ -18,8 +18,8 @@ Semplice applicazione web.
 - https://www.favicon.cc
 - https://docsify.js.org/
 - https://revealjs.com/
-- https://pages.github.com
 
-## Git
+## Git and githup
+- https://pages.github.com
 - https://www.atlassian.com/git
 - https://learngitbranching.js.org
